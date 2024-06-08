@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color:  #f08804;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+.contentbox{
+    background-color: rgba(255,0,0, 0.5);
+    height: 100px;
+    width: 100px;
+    margin: 45px;
+
+}
+#content{
+      height:500px;
+    
+}
+footer{
+    background-color: black;
+    color:blue;
+    padding:5px;
+}
+:hover input{
+    color: black;
+    background-color: darkslateblue;
+}
+#div{
+    display: flex;
+    gap: 20px;
+    margin:5px;
+    height:500px;
+}
+.d1{
+    background-color: rgba(255,0,0, 0.5);
+    color:blue;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+.d2{
+    background-color: rgba(0,255,0, 0.5);
+    color: blue;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+.d3{
+    background-color: rgba(0,0,255, 0.5);
+    color:blue;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}

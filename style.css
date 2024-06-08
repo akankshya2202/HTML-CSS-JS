@@ -1,0 +1,23 @@
+h1{
+    background-color: cornflowerblue;
+    color: aquamarine;
+}
+h2{
+    background-color: cornflowerblue;
+    color: aquamarine;
+}
+p{
+    font-size: 40px;
+    color: rgb(5, 73, 73);
+    font-family: fantasy;
+}
+a{
+    text-decoration: none;
+
+    
+}
+a:hover{
+   
+    background-color: rgb(49, 248, 9);
+    color: rgb(10, 11, 11);
+}
